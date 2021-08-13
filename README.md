@@ -41,7 +41,7 @@ Also, sometimes the model name will change by the training steps, please change 
 
 We also includes a sample program to show how we split the character from license plate in splitlicenseplate folder.
 
-Just download everything and run the main.py program, and it will works.
+Just download everything and run the program, and it will work. Outputs will in the test folder.
 
 
 
