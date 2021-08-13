@@ -1,4 +1,7 @@
 # CLP-Recognition
+
+Python 3.8, Tensorflow 2.0, OpenCv 3.4
+
 Please download the dataset:
 https://drive.google.com/file/d/1DQJch_CUCPvSYaR-tiwuB9wVgmwuA-di/view?usp=sharing
 
