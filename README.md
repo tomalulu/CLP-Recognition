@@ -2,9 +2,7 @@
 
 Python 3.8, Tensorflow 2.0, OpenCv 3.4
 
-#Notice# : notebook doesn't support cv2.imshow method, we comment all this method, if you want to use it, you can paste the program in a py file and uncomment the 
-
-cv2.imshow methods
+#Notice# : notebook doesn't support cv2.imshow method, we comment all this method, if you want to use it, you can paste the program in a py file and uncomment the cv2.imshow methods
 
 Please download the dataset:
 https://drive.google.com/file/d/1DQJch_CUCPvSYaR-tiwuB9wVgmwuA-di/view?usp=sharing
@@ -23,9 +21,7 @@ Folder name: models (include two models for two recognition)
 
 It also includes test images for play in main program, in a folder named test_images
 
-We include two images for you to test, you can download other images to test as you wish. (Remember to change the path name with image name which is in main segment
-
-of the main program.)
+We include two images for you to test, you can download other images to test as you wish. (Remember to change the path name with image name which is in main segment of the main program.)
 
 One more folder named opencv includes processed license plate binary image after process steps.
 
